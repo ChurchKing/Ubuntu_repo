@@ -6,6 +6,9 @@ python.vim  >>>>>  /usr/share/vim/vim74/syntax/
 
 vimrc       >>>>>  /etc/vim/
 
+### apt source ###
+
+sources.liat  >>>>> /etc/apt/
 
 
 ### ROS ###
