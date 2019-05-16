@@ -1,0 +1,10 @@
+deb http://mirrors.ustc.edu.cn/ros/ubuntu/ xenial main
+deb http://mirrors.tuna.tsinghua.edu.cn/ros/ubuntu/ xenial main
+# deb http://mirror-ap.packages.ros.org/ros/ubuntu/ $DISTRIB_CODENAME main
+
+# deb http://mirror-eu.packages.ros.org/ros/ubuntu/ $DISTRIB_CODENAME main
+
+# deb http://packages.ros.org.ros.informatik.uni-freiburg.de/ros/ubuntu $DISTRIB_CODENAME main
+
+
+# deb http://mirror.umd.edu/packages.ros.org/ros/ubuntu $DISTRIB_CODENAME main
